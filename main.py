@@ -1,5 +1,6 @@
 import time
 
+# only example
 print('https://replit.com/@Levashov/messenger')
 
 # None
